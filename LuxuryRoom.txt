@@ -1,0 +1,8 @@
+Luxury Room Facilities :
+Single Bed
+Double Bed
+Washroom
+LED
+AC
+
+nothing
